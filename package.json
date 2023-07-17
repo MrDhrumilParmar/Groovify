@@ -38,7 +38,7 @@
     "typescript": "5.0.4",
     "uniqid": "^5.4.0",
     "use-sound": "^4.0.1",
-    "zustand": "^4.3.8"
+    "zustand": "^4.3.9"
   },
   "devDependencies": {
     "@types/uniqid": "^5.3.2",
