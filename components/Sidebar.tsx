@@ -41,7 +41,7 @@ const Sidebar = ({ children, songs }: SidebarProps) => {
     <div 
       className={twMerge(`
         flex 
-        h-full
+        h-screen
         `,
         player.activeId && 'h-[calc(100%-80px)]'
       )}
